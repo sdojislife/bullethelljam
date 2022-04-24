@@ -1,11 +1,3 @@
-﻿///////////////////////////////////////////////////////////////////////
-//
-//      RaycastController.cs
-//      CompSci 40S, 2017-2018, Yaroslav Mikhaylik - HaselLoyance
-//      Heavily based on https://github.com/SebLague/2DPlatformer-Tutorial
-//
-///////////////////////////////////////////////////////////////////////
-
 using UnityEngine;
 
 public struct RaycastOrigins
